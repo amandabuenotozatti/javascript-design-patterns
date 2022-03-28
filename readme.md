@@ -14,3 +14,12 @@ First we use document.querySelector which is a Dom API that allows us to fetch a
 - get syntax
 - constructor
 - private attributes must use the prefix _ (underline)
+
+#### Controller
+> The Controller layer handles requests from users. It is responsible for rendering a response with the aid of both the Model and the View layer.
+
+> A controller can be seen as a manager that ensures that all resources needed for completing a task are delegated to the correct workers. It waits for petitions from clients, checks their validity according to authentication or authorization rules, delegates data fetching or processing to the model, selects the type of presentational data that the clients are accepting, and finally delegates the rendering process to the View layer.
+- looping through the DOM many times
+- Date object
+- spread operator
+- arrow functions
