@@ -23,3 +23,10 @@ First we use document.querySelector which is a Dom API that allows us to fetch a
 - Date object
 - spread operator
 - arrow functions
+
+#### Date Helper
+- Single responsability 
+- Static methods 
+- Date Conversion
+- Template Strings
+- Fail Fast
